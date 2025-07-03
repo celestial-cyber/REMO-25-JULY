@@ -1,0 +1,63 @@
+Submit.php was triggered
+Submit.php was triggered
+Array
+(
+    [prompt] => hey
+    [response] => Hey there! How can I help you today?
+
+)
+Submit.php was triggered
+Submit.php was triggered
+Array
+(
+    [prompt] => hey
+    [response] => Hey there! How can I help you today?
+
+)
+Submit.php was triggered
+Submit.php was triggered
+Array
+(
+    [prompt] => hey gemin
+    [response] => Hey there!  How can I help you today?
+
+)
+Submit.php was triggered
+Submit.php was triggered
+Array
+(
+    [prompt] => hey gemin
+    [response] => Hey there!  How can I help you today?
+
+)
+Submit.php was triggered
+Array
+(
+    [prompt] => heyyyy
+    [response] => Hey there!  How can I help you today?
+
+)
+Submit.php was triggered
+Submit.php was triggered
+Array
+(
+    [prompt] => hyyyy
+    [response] => Hello there!  How can I help you today?
+
+)
+Submit.php was triggered
+Submit.php was triggered
+Array
+(
+    [prompt] => hey remo
+    [response] => Hey there!  How can I help you today?
+
+)
+Submit.php was triggered
+Submit.php was triggered
+Array
+(
+    [prompt] => hey
+    [response] => Hey there! How can I help you today?
+
+)

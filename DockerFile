@@ -1,0 +1,34 @@
+# Base image with Apache + PHP
+FROM php:8.2-apache
+
+# Install Node.js (for Next.js build)
+RUN apt-get update && \
+    apt-get install -y curl gnupg && \
+    curl -fsSL https://deb.nodesource.com/setup_18.x | bash - && \
+    apt-get install -y nodejs
+
+# Enable Apache mod_rewrite
+RUN a2enmod rewrite
+
+# Set working directory
+WORKDIR /var/www/html
+
+# Copy PHP backend files
+COPY backend/ /var/www/html/
+
+# Copy transcript files (if needed by backend)
+COPY transcripts/ /var/www/html/transcripts/
+
+# Copy and build Next.js frontend
+COPY frontend/ /app/
+WORKDIR /app
+RUN npm install && npm run build && npm run export
+
+# Move exported static files to Apache root
+RUN cp -r out/* /var/www/html/
+
+# Final working directory
+WORKDIR /var/www/html
+
+# Expose HTTP port
+EXPOSE 80

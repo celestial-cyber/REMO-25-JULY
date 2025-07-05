@@ -22,7 +22,8 @@ COPY transcripts/ /var/www/html/transcripts/
 # Copy and build Next.js frontend
 COPY frontend/ /app/
 WORKDIR /app
-RUN npm install && npm run build && npm run export
+RUN npm install --legacy-peer-deps && npm run build && npm run export
+
 
 # Move exported static files to Apache root
 RUN cp -r out/* /var/www/html/

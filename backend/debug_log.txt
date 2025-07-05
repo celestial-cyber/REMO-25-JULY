@@ -61,3 +61,11 @@ Array
     [response] => Hey there! How can I help you today?
 
 )
+Submit.php was triggered
+Submit.php was triggered
+Array
+(
+    [prompt] => he
+    [response] => That's a very short word!  Is there anything else I can help you with?  Perhaps you meant to type a longer sentence or question?
+
+)

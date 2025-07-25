@@ -303,3 +303,57 @@ Array
     [response] => Hey there! How can I help you today?
 
 )
+Submit.php was triggered
+Submit.php was triggered
+Array
+(
+    [prompt] => hey 
+    [response] => Hey there! How can I help you today?
+
+)
+Submit.php was triggered
+Submit.php was triggered
+Array
+(
+    [prompt] => can u generate structure of remo
+
+    [response] => REMO, as a software or system, doesn't have a single, publicly available structure.  The structure depends entirely on how it's implemented.  To answer your question, I need more context.  What is REMO?
+
+For example, is REMO:
+
+* **A software application?**  If so, is it a desktop application, a web application, a mobile application?  Its structure would involve things like:
+    * **Frontend:**  (e.g., HTML, CSS, JavaScript, React, Angular, Vue.js)  Handles user interface.
+    * **Backend:** (e.g., Python, Java, Node.js, Ruby on Rails) Handles data processing, logic, and database interactions.
+    * **Database:** (e.g., MySQL, PostgreSQL, MongoDB) Stores data.
+    * **APIs:** (Application Programming Interfaces) Allow different parts of the system to communicate.
+
+
+* **A hardware system?**  This would have a completely different structure, focusing on physical components and their interconnections.  For example, it might be a:
+    * **Network of sensors:**  A system of interconnected sensors collecting data.  The structure would describe how these sensors communicate and send data to a central processing unit.
+    * **Robotics system:**  A robotic system might have a mechanical structure, an electronic control system, and software controlling its actions.  The structure would describe these components and their interactions.
+
+
+* **An acronym for something else?** If REMO stands for a specific technology or system, knowing the full name would allow for a more accurate description of its structure.
+
+Please provide more details about what REMO is so I can give you a more helpful answer.
+
+)
+Submit.php was triggered
+Submit.php was triggered
+Array
+(
+    [prompt] => who is the prime minister of india
+
+    [response] => The current Prime Minister of India is Narendra Modi.
+
+)
+Submit.php was triggered
+Submit.php was triggered
+Array
+(
+    [prompt] => who is thepresident 
+of india
+
+    [response] => The current president of India is **Droupadi Murmu**.
+
+)

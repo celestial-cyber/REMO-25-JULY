@@ -1,6 +1,7 @@
 'use client'
 
 import React, { useState } from 'react'
+import { usePathname } from 'next/navigation' // ✅ import this
 import { TEMPLATE } from '../../_components/TemplateListSection'
 import { Input } from '@/components/ui/input'
 import { Textarea } from '@/components/ui/textarea'
@@ -16,6 +17,7 @@ interface PROPS {
 
 export default function FormSection({ selectedTemplate, loading, setLoading, setAiOutput }: PROPS) {
   const [formData, setFormData] = useState<any>({})
+  const pathname = usePathname() // ✅ get current path
 
   const handleInputChange = (event: any) => {
     const { name, value } = event.target
@@ -87,7 +89,9 @@ export default function FormSection({ selectedTemplate, loading, setLoading, set
 
         <Button type='submit' className='w-full py-6' disabled={loading}>
           {loading && <Loader2Icon className='animate-spin mr-2 h-5 w-5' />}
-          Generate content
+          {pathname === '/dashboard/content/generate-blog-title'
+            ? 'Generate Title'
+            : 'Generate Content'}
         </Button>
       </form>
     </div>

@@ -69,3 +69,237 @@ Array
     [response] => That's a very short word!  Is there anything else I can help you with?  Perhaps you meant to type a longer sentence or question?
 
 )
+Submit.php was triggered
+Submit.php was triggered
+Array
+(
+    [prompt] => hey
+    [response] => Hey there! How can I help you today?
+
+)
+Submit.php was triggered
+Submit.php was triggered
+Array
+(
+    [prompt] => hey AI i hvave got the rough points can u prepare MoM 
+    [response] => Please provide me with the rough points!  I need the topics discussed, decisions made, action items, and attendees to create a meaningful Minutes of Meeting (MoM).  The more detail you give me, the better the MoM will be.  For example, tell me things like:
+
+* **Date and Time of Meeting:**
+* **Attendees:**  (Names and titles, if relevant)
+* **Topics Discussed:** (e.g., Project X status, budget review, marketing strategy)  For each topic, include:
+    * **Key Discussion Points:** What were the main points raised?
+    * **Decisions Made:** What were the outcomes or agreements reached?
+    * **Action Items:** Who is responsible for what, and by when?
+
+
+Once I have this information, I can draft a professional-looking MoM for you.
+
+)
+Submit.php was triggered
+Submit.php was triggered
+Array
+(
+    [prompt] => 1.	Attendees – Thakur Akshay Singh, T Akshitha, Dhananjay, neeraj, sowmith, mythri, Sreenija, Farheen, Lakshmi Priya, Steven, Bindu, Manish, Lokesh 
+2.	Mentor connect with SA projects Team – started at 7:35 PM, initiated by Thakur Akshay Singh- he explained the topic of today’s meeting – he explained that this meeting is called to see project updates and resolve if there is any issue we will resolve it together, he explained that for every project he needs to know the following things , 1. Who has worked with the project who is the developer , who is the analyst and who was the tester and what were the issue they have faced and how they are planning to issue it and is there any help needed we will work on that.
+3.	Akshay started with remo he asked Farheen regarding projects – she explained that the developer is Sowmith is the developer , I have resolved the issue , saideep is working as a tester and remo manual is completed by Lokesh 
+4.	Akshay said that was that manual have been reviewed on which Farheen said that she was not provided with the document which will be provided by Lokesh and she will do the review.
+5.	He asked her if she faced any issue on which she said that the issue is the deployment , I have deployed the simple project with no extra features n render but it is down sometimes because of the free plan we are using so we need to find some other deployment platform, on which akshay said its okay since the project is now deployed we will look for creating a manual build for that. But he suggested her to look for more deployment platforms 
+6.	Akshay then went for the IMS- Interview Management System and asked Lakshmi Priya regarding project updates and usage manual updates on which she said that in the IMS she was asked to add interview counts.
+He asked her to create one separate table for candidates so that the passwords and username can be store there also add one feature for that if the candidate is present and filled the google form it should show the report and if the candidate is absent so it should show that the candidate was absent instead of evaluation is pending.
+7.	He asked Lakshmi Priya – that do we have a scheduler kind of feature so that meeting can be scheduled in certain time if it is not possible at that timeframe on which Lakshmi said that she will try to work on it. Akshay also suggested to add questions, psychometric marks and move the add candidate button a little pixel down so it won’t merge with the other components and look neat.
+8.	Lakshmi was also instructed to change the table names in the project to IMS_<tablename> if she needs any help she can contact Stevenson and take help from him 
+9.	He asked about the manual on which Lakshmi Priya there are few changes that needs to be made and it will be handled by Manish once the project is done entirely the manual will be completed also, for that Akshay suggested if possible they can have meeting at 6 PM the next day and the user manual will be completed 
+10.	Manish was also asked on who is giving the guidelines for the manual and reviewing it on which he said the guidelines were provided by sreenija and she has done the review 
+11.	Akshay then moved to ERP and asked Mythri – on which she confirmed that the project is almost done and there are few changes made that will be also completed by today and Lokesh is working on documentation work which is reviewed by sreenija and it is under the suggested guidelines
+12.	Akshay suggested all the developers to be ready for any changes or resolving any issue.
+13.	He then moved to the IvMS- Inventory management system and asked Stevenson on who are working on the project on which he said that Apart from him, karthik, dhannajay and kanna are working but they facing some issues which they will resolve,
+14.	Akshay asked him to share the project code in zip file via email so he can add those changes and host it on the SA website and regarding documentation, Stevenson said that it is been completed by Manish and because of the issues we are late in sending the screenshots of the project to him and once the issue is resolved the screenshot will be shared and the project will be completed by today 
+15.	Steven then asked to show the demo of DITAC website on which Akshay suggested to change the background color from gradient to some to other color also change the tables name in the DITAC to ditac_<tablename> 
+16.	Neeraj explained that we need to add quiz portal for the ditac once that project is completed that thing will also be added 
+17.	Akshay then went to Bindu and asked her about the documentation she is working on – she explained that she has completed the SA website and NOSTALGIA website user manual and only DITAC is left. He asked her if she is satisfied with the manual on which she confirmed that she is satisfied and review is done by Sreenija and she has also done the proof reading for the manual completed by Lokesh and Manish 
+18.	Akshay also asked regarding the learning of PHP on which she said she is on the basic PHP , he asked her to give a deadline by which she will complete the basics learning on which she said by the end of this month she will try to finish it 
+19.	Akshay then moved to sreenija and asked her if she faced any issues or challenges while documentation or review process then she said that there were lack of participation in sharing the project updates also there were less acknowledgement and due to that we have wasted a lot of time.
+20.	Neeraj also shared that in the user manual we should not use the real username and password in the screenshot instead of that we can use SA username and password 
+21.	Akshay then asked Farheen regarding the challenges and gap then she explained the gap was due to pressure and this is the first time we are working on projects with deadlines so from now onwards people will get used to it.
+22.	Lakshmi also shared that she is very happy with the project and she works better under a deadline and pressure also she shared that there is need that we should talk and meet on campus 
+23.	Manish shared that he was regularly connecting with Lokesh and Bindu for the manual work but we need daily interaction between senior and juniors 
+24.	Akshitha suggested to have more events that can increase the interaction and Farheen suggested to have some interaction cum awareness session for the current third and second years. On which Akshay said we will work on that.
+25.	Session ended by 8:50 PM 
+
+    [response] => ## Meeting Summary: Mentor Connect with SA Projects Team
+
+**Date:** [Date of Meeting]
+**Time:** 7:35 PM - 8:50 PM
+**Attendees:** Thakur Akshay Singh, T Akshitha, Dhananjay, Neeraj, Sowmith, Mythri, Sreenija, Farheen, Lakshmi Priya, Steven, Bindu, Manish, Lokesh
+
+**Meeting Objective:** Review project updates and address any issues.  Akshay Singh requested updates on each project, including developer, analyst, tester, challenges faced, planned solutions, and required assistance.
+
+**Project Updates & Action Items:**
+
+* **REMO:**
+    * **Developer:** Sowmith
+    * **Analyst:** Farheen
+    * **Tester:** Saideep
+    * **Manual Completion:** Lokesh (needs review by Farheen)
+    * **Issue:** Deployment issues due to free plan limitations.  Akshay suggested exploring alternative deployment platforms and creating a manual build.
+* **IMS (Interview Management System):**
+    * **Analyst/Developer:** Lakshmi Priya
+    * **Action Items:**
+        * Create separate table for candidate usernames and passwords.
+        * Add feature to display candidate presence/absence in reports (based on Google Form submissions).
+        * Implement scheduling feature (if feasible).
+        * Add questions and psychometric marks fields.
+        * Adjust "Add Candidate" button position for improved aesthetics.
+        * Rename tables to `IMS_<tablename>`.  Steven to assist if needed.
+        * Meeting scheduled for the next day at 6 PM to finalize the user manual (Manish to complete).  Sreenija provided guidelines and review.
+* **ERP:**
+    * **Developer:** Mythri (almost complete)
+    * **Documentation:** Lokesh (reviewed by Sreenija)
+* **IvMS (Inventory Management System):**
+    * **Developers:** Steven, Karthik, Dhananjay, Kanna (facing issues)
+    * **Action Items:**
+        * Steven to share project code (zip file) with Akshay for hosting on the SA website.
+        * Manish completed documentation; screenshots pending issue resolution.  Project completion expected by end of day.
+* **DITAC Website:**
+    * **Action Items:**
+        * Change background color from gradient to a solid color.
+        * Rename tables to `ditac_<tablename>`.
+        * Add quiz portal (Neeraj).
+* **SA Website & Nostalgia Website:**
+    * **Documentation:** Bindu (complete; reviewed by Sreenija; proofreading by Lokesh & Manish).
+* **Bindu's PHP Learning:** Aim to complete basic PHP learning by the end of the month.
+
+**Challenges & Gaps:**
+
+* **Documentation:** Lack of timely project updates and acknowledgements caused delays.  (Sreenija)
+* **User Manuals:**  Use of SA username and password instead of real credentials in screenshots. (Neeraj)
+* **REMO:**  Deployment issues due to free plan limitations.
+* **Overall:** Pressure and deadlines were challenging, but team will adapt.  (Farheen)
+
+**Suggestions for Improvement:**
+
+* **Daily Interaction:** Increased interaction between senior and junior members (Manish).
+* **More Events:** Organize more events to foster interaction. (Akshitha)
+* **Awareness Sessions:** Conduct interaction/awareness sessions for second and third-year students. (Farheen)
+* **On-Campus Meetings:** More in-person meetings to improve communication. (Lakshmi Priya)
+
+
+**Conclusion:**
+
+The meeting provided a comprehensive overview of ongoing projects.  Several action items were assigned to address identified issues and improve future collaboration.  The team acknowledged challenges but expressed commitment to completing projects and improving communication processes.
+
+)
+Submit.php was triggered
+Submit.php was triggered
+Array
+(
+    [prompt] => 1.	Attendees – Thakur Akshay Singh, T Akshitha, Dhananjay, neeraj, sowmith, mythri, Sreenija, Farheen, Lakshmi Priya, Steven, Bindu, Manish, Lokesh 
+2.	Mentor connect with SA projects Team – started at 7:35 PM, initiated by Thakur Akshay Singh- he explained the topic of today’s meeting – he explained that this meeting is called to see project updates and resolve if there is any issue we will resolve it together, he explained that for every project he needs to know the following things , 1. Who has worked with the project who is the developer , who is the analyst and who was the tester and what were the issue they have faced and how they are planning to issue it and is there any help needed we will work on that.
+3.	Akshay started with remo he asked Farheen regarding projects – she explained that the developer is Sowmith is the developer , I have resolved the issue , saideep is working as a tester and remo manual is completed by Lokesh 
+4.	Akshay said that was that manual have been reviewed on which Farheen said that she was not provided with the document which will be provided by Lokesh and she will do the review.
+5.	He asked her if she faced any issue on which she said that the issue is the deployment , I have deployed the simple project with no extra features n render but it is down sometimes because of the free plan we are using so we need to find some other deployment platform, on which akshay said its okay since the project is now deployed we will look for creating a manual build for that. But he suggested her to look for more deployment platforms 
+6.	Akshay then went for the IMS- Interview Management System and asked Lakshmi Priya regarding project updates and usage manual updates on which she said that in the IMS she was asked to add interview counts.
+He asked her to create one separate table for candidates so that the passwords and username can be store there also add one feature for that if the candidate is present and filled the google form it should show the report and if the candidate is absent so it should show that the candidate was absent instead of evaluation is pending.
+7.	He asked Lakshmi Priya – that do we have a scheduler kind of feature so that meeting can be scheduled in certain time if it is not possible at that timeframe on which Lakshmi said that she will try to work on it. Akshay also suggested to add questions, psychometric marks and move the add candidate button a little pixel down so it won’t merge with the other components and look neat.
+8.	Lakshmi was also instructed to change the table names in the project to IMS_<tablename> if she needs any help she can contact Stevenson and take help from him 
+9.	He asked about the manual on which Lakshmi Priya there are few changes that needs to be made and it will be handled by Manish once the project is done entirely the manual will be completed also, for that Akshay suggested if possible they can have meeting at 6 PM the next day and the user manual will be completed 
+10.	Manish was also asked on who is giving the guidelines for the manual and reviewing it on which he said the guidelines were provided by sreenija and she has done the review 
+11.	Akshay then moved to ERP and asked Mythri – on which she confirmed that the project is almost done and there are few changes made that will be also completed by today and Lokesh is working on documentation work which is reviewed by sreenija and it is under the suggested guidelines
+12.	Akshay suggested all the developers to be ready for any changes or resolving any issue.
+13.	He then moved to the IvMS- Inventory management system and asked Stevenson on who are working on the project on which he said that Apart from him, karthik, dhannajay and kanna are working but they facing some issues which they will resolve,
+14.	Akshay asked him to share the project code in zip file via email so he can add those changes and host it on the SA website and regarding documentation, Stevenson said that it is been completed by Manish and because of the issues we are late in sending the screenshots of the project to him and once the issue is resolved the screenshot will be shared and the project will be completed by today 
+15.	Steven then asked to show the demo of DITAC website on which Akshay suggested to change the background color from gradient to some to other color also change the tables name in the DITAC to ditac_<tablename> 
+16.	Neeraj explained that we need to add quiz portal for the ditac once that project is completed that thing will also be added 
+17.	Akshay then went to Bindu and asked her about the documentation she is working on – she explained that she has completed the SA website and NOSTALGIA website user manual and only DITAC is left. He asked her if she is satisfied with the manual on which she confirmed that she is satisfied and review is done by Sreenija and she has also done the proof reading for the manual completed by Lokesh and Manish 
+18.	Akshay also asked regarding the learning of PHP on which she said she is on the basic PHP , he asked her to give a deadline by which she will complete the basics learning on which she said by the end of this month she will try to finish it 
+19.	Akshay then moved to sreenija and asked her if she faced any issues or challenges while documentation or review process then she said that there were lack of participation in sharing the project updates also there were less acknowledgement and due to that we have wasted a lot of time.
+20.	Neeraj also shared that in the user manual we should not use the real username and password in the screenshot instead of that we can use SA username and password 
+21.	Akshay then asked Farheen regarding the challenges and gap then she explained the gap was due to pressure and this is the first time we are working on projects with deadlines so from now onwards people will get used to it.
+22.	Lakshmi also shared that she is very happy with the project and she works better under a deadline and pressure also she shared that there is need that we should talk and meet on campus 
+23.	Manish shared that he was regularly connecting with Lokesh and Bindu for the manual work but we need daily interaction between senior and juniors 
+24.	Akshitha suggested to have more events that can increase the interaction and Farheen suggested to have some interaction cum awareness session for the current third and second years. On which Akshay said we will work on that.
+25.	Session ended by 8:50 PM 
+KEEP TEH CONTENT SAME dont cut short it , add full content 
+    [response] => ## Mentor Connect with SA Projects Team Meeting Minutes
+
+**Date:** [Insert Date]
+**Time:** 7:35 PM - 8:50 PM
+**Attendees:** Thakur Akshay Singh, T Akshitha, Dhananjay, Neeraj, Sowmith, Mythri, Sreenija, Farheen, Lakshmi Priya, Steven, Bindu, Manish, Lokesh
+
+**1. Meeting Objective:**
+
+Thakur Akshay Singh initiated the meeting to review project updates from the Software Application (SA) projects team and address any outstanding issues collaboratively.  For each project, Akshay requested information on the developer, analyst, tester, challenges faced, planned solutions, and any required assistance.
+
+**2. Project Updates and Discussions:**
+
+* **Remo:** Farheen reported that Sowmith was the developer, she resolved the issues, Saideep is the tester, and Lokesh completed the Remo manual.  Lokesh will provide the manual to Farheen for review. The main issue is deployment instability due to the free plan being used. Akshay acknowledged the deployment and suggested exploring alternative platforms, recommending creating a manual build in the meantime.
+
+* **IMS (Interview Management System):** Lakshmi Priya is working on adding interview counts.  Akshay instructed her to:
+    * Create a separate table for candidate usernames and passwords.
+    * Implement a feature to display whether a candidate was present or absent based on Google Form submission, replacing the "evaluation pending" status.
+    * Explore adding a scheduler for meeting scheduling.
+    * Add questions and psychometric marks fields.
+    * Adjust the "Add Candidate" button's position for better visual appeal.
+    * Rename tables to `IMS_<tablename>`.  Steven can provide assistance if needed.
+    * A meeting is scheduled for the following day at 6 PM to finalize the user manual, with Manish handling the final updates.  Sreenija provided guidelines and review for the manual.
+
+* **ERP:** Mythri reported the project is nearing completion, with minor remaining changes. Lokesh is working on documentation, reviewed by Sreenija according to established guidelines.
+
+* **IvMS (Inventory Management System):** Steven reported that he, Karthik, Dhananjay, and Kanna are working on the project and facing some issues which they are actively resolving.  Akshay requested the project code in a zip file via email to make changes and host it on the SA website. Manish completed the documentation, but screenshots are pending due to the unresolved issues.  The project is expected to be completed by the end of the day.
+
+* **DITAC Website:** Steven demonstrated the DITAC website. Akshay suggested changing the background color from gradient to a solid color and renaming tables to `ditac_<tablename>`. Neeraj mentioned adding a quiz portal after the initial project's completion.
+
+* **SA Website & Nostalgia Website User Manuals:** Bindu reported completing the manuals for the SA website and Nostalgia website.  Only the DITAC manual remains.  Sreenija reviewed the manuals, and Bindu proofread Lokesh and Manish's work. Bindu is working on learning basic PHP and aims to complete it by the end of the month.
+
+**3. Challenges and Gaps:**
+
+* **Sreenija:** Highlighted the lack of timely project updates and acknowledgement, leading to time wastage.
+* **Neeraj:** Suggested using placeholder usernames and passwords (like "SA username" and "SA password") in screenshots instead of real credentials.
+* **Farheen:** Attributed gaps to initial pressure and unfamiliarity with project deadlines, expecting improved time management moving forward.
+* **Lakshmi Priya:** Expressed satisfaction with working under pressure and deadlines and suggested more in-person campus meetings.
+* **Manish:** Emphasized the need for regular interaction between senior and junior team members.
+
+**4. Action Items and Future Plans:**
+
+* Developers to remain prepared for resolving issues and incorporating changes.
+* Akshitha suggested organizing more team-building events to improve interaction.
+* Farheen suggested an interaction/awareness session for second and third-year students.
+* Akshay agreed to explore these suggestions.
+
+
+**5. Meeting Adjournment:**
+
+The meeting concluded at 8:50 PM.
+
+)
+Submit.php was triggered
+Submit.php was triggered
+Array
+(
+    [prompt] => hey can u generate a demo
+    [response] => Please tell me what kind of demo you'd like!  I need more information to generate something useful.  For example, tell me:
+
+* **What is the demo for?** (e.g., a new software feature, a website, a specific concept, a piece of code)
+* **What should the demo show?** (e.g., key features, a workflow, a specific problem being solved)
+* **What format should the demo be in?** (e.g., text description, code snippet, a short story, a list of steps)
+* **What is the target audience?** (e.g., technical users, general public, potential investors)
+
+The more details you provide, the better I can tailor the demo to your needs.
+
+)
+Submit.php was triggered
+Submit.php was triggered
+Array
+(
+    [prompt] => hey
+    [response] => Hey there! How can I help you today?
+
+)
+Submit.php was triggered
+Submit.php was triggered
+Array
+(
+    [prompt] => hey
+    [response] => Hey there! How can I help you today?
+
+)
